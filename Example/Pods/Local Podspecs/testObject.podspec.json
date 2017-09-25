@@ -1,0 +1,22 @@
+{
+  "name": "testObject",
+  "version": "0.1.0",
+  "summary": "A short description of testObject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/745998638@qq.com/testObject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "745998638@qq.com": "huhuimin@wallan-tech.com"
+  },
+  "source": {
+    "git": "https://github.com/745998638@qq.com/testObject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testObject/Classes/**/*"
+}
